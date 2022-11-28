@@ -1,8 +1,10 @@
 
 /**
- * live site: 
- * server:
- * client: 
+ * live site: https://used-buyer.web.app/
+ * 
+ * server: https://github.com/programming-hero-web-course-4/b612-used-products-resale-server-side-Kafi09
+ * 
+ * client: https://github.com/programming-hero-web-course-4/b612-used-products-resale-clients-side-Kafi09
  */
 /* 
 PROJECT SETUP
