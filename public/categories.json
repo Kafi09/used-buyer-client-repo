@@ -1,0 +1,93 @@
+[
+    {
+        "name": "OPPO X3 Pro",
+        "img": "https://i.ibb.co/G34vQ7y/phn1.jpg",
+        "new_price": "65000",
+        "resale_price": "32000",
+        "used_year": "1 Year",
+        "location": "Dhaka",
+        "condition": "Good"
+
+    },
+    {
+        "name": "VIVO P9 Ultra",
+        "img": "https://i.ibb.co/fdxr0s5/Vivo-X90-Black.jpg",
+        "new_price": "1,25,000",
+        "resale_price": "95000",
+        "used_year": "6 Months",
+        "location": "Pabna",
+        "condition": "Excellent"
+
+    },
+    {
+        "name": "ASUS ROG Phone",
+        "img": "https://i.ibb.co/cvDVnSh/Asus-ROG-Phone-6-Batman-Edition.jpg",
+        "new_price": "95000",
+        "resale_price": "30000",
+        "used_year": "2 Years",
+        "location": "Barisal",
+        "condition": "Fair"
+
+    },
+    {
+        "name": "HUAWEI TAB",
+        "img": "https://i.ibb.co/JqfsmBq/Realme-Pad-Mini.jpg",
+        "new_price": "30000",
+        "resale_price": "12000",
+        "used_year": "1 Year",
+        "location": "Noakhali",
+        "condition": "Good"
+
+    },
+    {
+        "name": "SAMSUNG TAB S",
+        "img": "https://i.ibb.co/0DpgtZy/Samsung-Galaxy-Tab-A7-104-2022.jpg",
+        "new_price": "45000",
+        "resale_price": "22000",
+        "used_year": "2 Years",
+        "location": "Cumilla",
+        "condition": "Fair"
+
+    },
+    {
+        "name": "XIAOMI TAB Ultra",
+        "img": "https://i.ibb.co/vJKsqpr/Xiaomi-Pad-5-Pro-124.jpg",
+        "new_price": "31000",
+        "resale_price": "25000",
+        "used_year": "3 Months",
+        "location": "Dhanmondi",
+        "condition": "Excellent"
+
+
+    },
+    {
+        "name": "NOKIA 1305",
+        "img": "https://i.ibb.co/0JHQhsC/Nokia-105-2022.jpg",
+        "new_price": "2500",
+        "resale_price": "800",
+        "used_year": "1 Year",
+        "location": "Khulna",
+        "condition": "Good"
+
+    },
+    {
+        "name": "ITEL 5873",
+        "img": "https://i.ibb.co/VJTK8xk/Itel-it5028.jpg",
+        "new_price": "1300",
+        "resale_price": "500",
+        "used_year": "1 year",
+        "location": "Rangpur",
+        "condition": "Good"
+
+    },
+    {
+        "name": "SYMPHONY P1 Duo",
+        "img": "https://i.ibb.co/z4mBsd5/Symphony-L260.jpg",
+        "new_price": "1500",
+        "resale_price": "700",
+        "used_year": "2 Year",
+        "location": "Sylhet",
+        "condition": "Fair"
+
+    }
+]
