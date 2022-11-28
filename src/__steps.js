@@ -1,5 +1,9 @@
 
-
+/**
+ * live site: 
+ * server:
+ * client: 
+ */
 /* 
 PROJECT SETUP
 - create firebase app
